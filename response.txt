@@ -1,0 +1,8 @@
+New Game Started
+Human played at position 2
+AI played at position 4
+Human played at position 5
+AI played at position 8
+Human played at position 1
+AI played at position 0
+Result: AI wins
